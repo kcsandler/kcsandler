@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Kurshan Casilen</title>
+  <desc id="desc">Software Developer · AI · Data. Open to work.</desc>
+  <rect width="1280" height="420" fill="#F6F3EE"/>
+  <line x1="72" y1="0" x2="72" y2="420" stroke="#D9D4CB" stroke-width="1"/>
+  <line x1="0" y1="72" x2="1280" y2="72" stroke="#D9D4CB" stroke-width="1"/>
+  <line x1="0" y1="348" x2="1280" y2="348" stroke="#D9D4CB" stroke-width="1"/>
+  <text x="96" y="48" fill="#8C4A2F" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="3.2">SOFTWARE DEVELOPER · AI · DATA</text>
+  <text x="96" y="168" fill="#1C1B19" font-family="Georgia, 'Times New Roman', serif" font-size="64">Kurshan Casilen</text>
+  <text x="96" y="214" fill="#5C5854" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-style="italic">Building practical systems that turn complex workflows into useful software.</text>
+  <rect x="96" y="268" width="36" height="1" fill="#8C4A2F"/>
+  <text x="96" y="322" fill="#5B6D57" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2.4">OPEN TO WORK</text>
+  <text x="96" y="388" fill="#5C5854" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.6">BAGUIO CITY · kcsandler.github.io</text>
+</svg>
